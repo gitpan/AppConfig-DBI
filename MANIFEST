@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+lib/AppConfig/DBI.pm
+scripts/simple.pl
+test.pl
